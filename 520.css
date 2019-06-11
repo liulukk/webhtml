@@ -188,6 +188,7 @@ ol,ul,li{list-style: none;}
 	color: #000;
 	line-height: 40px;
 }
+.eat a:hover{color:#fd0304;}
 .eat li{
 	text-align: center;
 	height: 40px;
